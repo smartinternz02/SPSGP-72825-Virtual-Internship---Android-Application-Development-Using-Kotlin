@@ -17,6 +17,6 @@ As we can't remember everything, users frequently forget to buy the things they 
 
 ## Screenshots
 
-![Main Screenshot](https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS11.jpg)
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS11.jpg" height="450px">
 
 
