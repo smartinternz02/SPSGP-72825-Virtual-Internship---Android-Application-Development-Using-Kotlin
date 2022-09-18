@@ -17,17 +17,17 @@ As we can't remember everything, users frequently forget to buy the things they 
 
 ## Screenshots
 
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS1.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS2.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS3.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS4.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS5.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS6.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS7.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS8.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS9.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS10.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS11.jpg" height="450px">
-<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS12.jpg" height="450px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS1.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS2.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS3.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS4.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS5.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS6.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS7.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS8.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS9.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS10.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS11.jpg" height="600px">
+<img src="https://github.com/smartinternz02/SPSGP-72825-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/App%20Screenshots/SS12.jpg" height="600px">
 
 
